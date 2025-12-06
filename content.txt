@@ -1,0 +1,109 @@
+Ising Model in Statistical Physics and Beyond
+Part 0: Preface
+Chapter 0: The Simple and Beautiful Model
+0.0 A Brief History of the Study of the Ising Model
+more is different
+table of the History of the Ising Model
+Style and Organization of This Book
+Part I: The Ising Model and the Theory of Phase Transitions
+Chapter 1: Emergence: The Hierarchy of Nature
+1.1 Elements of Thermodynamics
+Energy, Entropy, and Free Energy
+Microstates and Macrostates
+The Energy-Entropy Competition
+1.2 Non-Interacting Models
+The Two-State Paramagnet
+The Ideal Gas Model
+The Free Boson and Free Fermion Gases
+1.3 The Statistical Mechanics Framework
+Statistical Ensembles and the Partition Function
+Deriving Thermodynamic Potentials from the Partition Function
+1.4 Rich Emergent Phenomena in Physics from Many-Body Interactions
+Phases and Phase Transitions
+Collective Excitations
+Chapter 2: The One-Dimensional Ising Model: A Cartoon Model
+2.1 Defining the Ising Model
+The Ising Hamiltonian: Spins, Lattices, and Couplings
+2.2 Why We Study the One-Dimensional Ising Model
+2.3 Methods for the 1D Ising Model without an External Fields
+The Combinatorial Method (Ising’s Original Method) for the 1D Ising Model
+The High-Temperature Graphical Expansion Approach to the 1D Ising Model
+The Coarse-Graining Method to the 1D Ising Model
+The Transfer Matrix Method for the 1D Ising Model
+2.4 The Low-Temperature Excitations of the 1D Ising Model
+Kinks (Domain Walls) as Elementary Excitations
+Kink-Antikink Pairs and the Concept of Deconfinement
+Kink Proliferation and the Absence of a Finite-Temperature Phase Transition
+2.5 The 1D Ising Model in an External Field
+The Transfer Matrix Method for the 1D Ising Model with a Magnetic Field
+Thermodynamic Properties from the Transfer Matrix Method
+The Free Energy
+Magnetic Susceptibility and the Fluctuation-Dissipation Theorem
+The Correlation Function and the Finite Correlation Length at T > 0
+Chapter 3: A First Journey into the Two-Dimensional Ising Model
+3.1 The Peierls Argument for Long-Range Order
+Domain Wall Excitations for the 2D Ising Model
+The Energy-Entropy Argument for Domain Walls on the Square Lattice
+Proving the Existence of Long-Range Order on the Square Lattice
+3.2 Kramers-Wannier Duality
+Low-Temperature and High-Temperature Expansions
+The Duality Transformation
+Locating the Critical Temperature via Duality
+Chapter 4: Mean-Field Theory and Landau Theory
+4.1 More Exactly Solvable Ising Models
+Ising Model on the Complete Graph
+Ising Model on the Bethe Lattice
+4.2 Landau Theory of Phase Transitions
+Order Parameter and the Landau Free Energy
+Mean-Field Results for the Ising Model from Landau Theory
+4.3 A Variational View of the Weiss Mean-Field Approximation
+Chapter 5: Returning to the Two-Dimensional Ising Model
+[Placeholder for the table of the major developments in the study of the 2D Ising model]
+5.1 The Exact Solution of the 2D Ising Model
+Conceptual Introduction to Onsager’s Exact Solution
+A Conceptual Introduction to C. N. Yang’s Solution in a Weak External Field
+5.2 Lee–Yang Zeros and the Nature of Phase Transitions
+T > 0 A Conceptual Introduction to Lee–Yang Zeros in the Ising Model
+How Phase Transitions Happen in the Ising Model from the Viewpoint of Lee–Yang Zeros
+Chapter 6: Monte Carlo Simulation of the 3D Ising Model
+[Difficulty of analytical study of the 3D Ising Model and the necessity of numerical study]
+6.1 Monte Carlo Simulation Fundamentals
+Importance Sampling
+Markov Chains and Detailed Balance
+The Metropolis-Hastings Algorithm
+6.2 Simulating the Ising Model
+The Metropolis Algorithm for the Ising Model
+Critical Slowing Down near the Critical Point
+The Wolff Algorithm for the Ising Model
+Measuring Thermodynamic Quantities in the Metropolis and Wolff Algorithms
+Finite-Size Scaling and Critical Behavior of the 3D Ising Model
+Chapter 7: Fluctuations
+7.1 The Ginzburg-Landau Functional
+From the Landau Free Energy to the Ginzburg-Landau Functional
+The Field-Theoretic Description of Fluctuations
+The Gaussian Approximation to Fluctuations
+7.2 The Mermin-Wagner Theorem and the Lower Critical Dimension
+The Mermin-Wagner Theorem
+The Lower Critical Dimension
+7.3 Ginzburg Criterion and the Upper Critical Dimension
+The Ginzburg Criterion
+The Upper Critical Dimension
+Chapter 8: Scaling Hypothesis and Universality
+8.1 The Homogeneous Function Scaling Hypothesis
+The Scaling Form of the Free Energy
+The Scaling Form of the Equation of State
+Verifying Exponent Relations with Scaling
+8.2 Universality
+The Concept of Universality Classes
+Dependence on Dimensionality and Symmetry
+Independence from Microscopic Details
+Chapter 9: The Renormalization Group
+9.1 The Kadanoff Block-Spin Transformation
+Coarse-Graining and Rescaling
+The Renormalization of Coupling Constants
+The Renormalization Group Flow
+Fixed Points of the RG Transformation
+9.2 Real-Space Renormalization Group (RSRG)
+RSRG for the 1D Ising Model (Decimation)
+RSRG for the 2D Triangular Lattice (Majority Rule)
+The Migdal-Kadanoff Approximation
