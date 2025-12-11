@@ -1,0 +1,312 @@
+{
+  "book_title": "Ising Model in Statistical Physics and Beyond",
+  "author": null,
+  "description": "A comprehensive textbook on the Ising model and its applications in statistical physics",
+  "table_of_contents": {
+    "part_0__preface": {
+      "title": "Part 0: Preface",
+      "chapter_0": {
+        "title": "Chapter 0: The Simple and Beautiful Model",
+        "sections": [
+          {
+            "section": "0.0",
+            "title": "A Brief History of the Study of the Ising Model",
+            "description": "more is different",
+            "table": "table of the History of the Ising Model"
+          },
+          {
+            "section": null,
+            "title": "Style and Organization of This Book"
+          }
+        ]
+      }
+    },
+    "part_i__the_ising_model_and_the_theory_of_phase_transitions": {
+      "title": "Part I: The Ising Model and the Theory of Phase Transitions",
+      "chapter_1": {
+        "title": "Chapter 1: Emergence: The Hierarchy of Nature",
+        "sections": [
+          {
+            "section": "1.1",
+            "title": "Elements of Thermodynamics",
+            "subsections": [
+              "Energy, Entropy, and Free Energy",
+              "Microstates and Macrostates",
+              "The Energy-Entropy Competition"
+            ]
+          },
+          {
+            "section": "1.2",
+            "title": "Non-Interacting Models",
+            "subsections": [
+              "The Two-State Paramagnet",
+              "The Ideal Gas Model",
+              "The Free Boson and Free Fermion Gases"
+            ]
+          },
+          {
+            "section": "1.3",
+            "title": "The Statistical Mechanics Framework",
+            "subsections": [
+              "Statistical Ensembles and the Partition Function",
+              "Deriving Thermodynamic Potentials from the Partition Function"
+            ]
+          },
+          {
+            "section": "1.4",
+            "title": "Rich Emergent Phenomena in Physics from Many-Body Interactions",
+            "subsections": [
+              "Phases and Phase Transitions",
+              "Collective Excitations"
+            ]
+          }
+        ]
+      },
+      "chapter_2": {
+        "title": "Chapter 2: The One-Dimensional Ising Model: A Cartoon Model",
+        "sections": [
+          {
+            "section": "2.1",
+            "title": "Defining the Ising Model",
+            "sections": [
+              {
+                "section": null,
+                "title": "The Ising Hamiltonian: Spins, Lattices, and Couplings"
+              }
+            ]
+          },
+          {
+            "section": "2.2",
+            "title": "Why We Study the One-Dimensional Ising Model"
+          },
+          {
+            "section": "2.3",
+            "title": "Methods for the 1D Ising Model without an External Fields",
+            "subsections": [
+              "The Combinatorial Method (Ising's Original Method) for the 1D Ising Model",
+              "The High-Temperature Graphical Expansion Approach to the 1D Ising Model",
+              "The Coarse-Graining Method to the 1D Ising Model",
+              "The Transfer Matrix Method for the 1D Ising Model"
+            ]
+          },
+          {
+            "section": "2.4",
+            "title": "The Low-Temperature Excitations of the 1D Ising Model",
+            "subsections": [
+              "Kinks (Domain Walls) as Elementary Excitations",
+              "Kink-Antikink Pairs and the Concept of Deconfinement",
+              "Kink Proliferation and the Absence of a Finite-Temperature Phase Transition"
+            ]
+          },
+          {
+            "section": "2.5",
+            "title": "The 1D Ising Model in an External Field",
+            "subsections": [
+              "The Transfer Matrix Method for the 1D Ising Model with a Magnetic Field",
+              "Thermodynamic Properties from the Transfer Matrix Method",
+              {
+                "title": "The Free Energy",
+                "magnetic_susceptibility": "Magnetic Susceptibility and the Fluctuation-Dissipation Theorem",
+                "correlation_function": "The Correlation Function and the Finite Correlation Length at T > 0"
+              }
+            ]
+          }
+        ]
+      },
+      "chapter_3": {
+        "title": "Chapter 3: A First Journey into the Two-Dimensional Ising Model",
+        "sections": [
+          {
+            "section": "3.1",
+            "title": "The Peierls Argument for Long-Range Order",
+            "subsections": [
+              "Domain Wall Excitations for the 2D Ising Model",
+              "The Energy-Entropy Argument for Domain Walls on the Square Lattice",
+              "Proving the Existence of Long-Range Order on the Square Lattice"
+            ]
+          },
+          {
+            "section": "3.2",
+            "title": "Kramers-Wannier Duality",
+            "subsections": [
+              "Low-Temperature and High-Temperature Expansions",
+              "The Duality Transformation",
+              "Locating the Critical Temperature via Duality"
+            ]
+          }
+        ]
+      },
+      "chapter_4": {
+        "title": "Chapter 4: Mean-Field Theory and Landau Theory",
+        "sections": [
+          {
+            "section": "4.1",
+            "title": "More Exactly Solvable Ising Models",
+            "subsections": [
+              "Ising Model on the Complete Graph",
+              "Ising Model on the Bethe Lattice"
+            ]
+          },
+          {
+            "section": "4.2",
+            "title": "Landau Theory of Phase Transitions",
+            "subsections": [
+              "Order Parameter and the Landau Free Energy",
+              "Mean-Field Results for the Ising Model from Landau Theory"
+            ]
+          },
+          {
+            "section": "4.3",
+            "title": "A Variational View of the Weiss Mean-Field Approximation"
+          }
+        ]
+      },
+      "chapter_5": {
+        "title": "Chapter 5: Returning to the Two-Dimensional Ising Model",
+        "note": "Placeholder for the table of the major developments in the study of the 2D Ising model",
+        "sections": [
+          {
+            "section": "5.1",
+            "title": "The Exact Solution of the 2D Ising Model",
+            "subsections": [
+              "Conceptual Introduction to Onsager's Exact Solution",
+              "A Conceptual Introduction to C. N. Yang's Solution in a Weak External Field"
+            ]
+          },
+          {
+            "section": "5.2",
+            "title": "Lee-Yang Zeros and the Nature of Phase Transitions",
+            "subsections": [
+              {
+                "section": "T > 0",
+                "title": "A Conceptual Introduction to Lee-Yang Zeros in the Ising Model"
+              },
+              "How Phase Transitions Happen in the Ising Model from the Viewpoint of Lee-Yang Zeros"
+            ]
+          }
+        ]
+      },
+      "chapter_6": {
+        "title": "Chapter 6: Monte Carlo Simulation of the 3D Ising Model",
+        "note": "Difficulty of analytical study of the 3D Ising Model and the necessity of numerical study",
+        "sections": [
+          {
+            "section": "6.1",
+            "title": "Monte Carlo Simulation Fundamentals",
+            "subsections": [
+              "Importance Sampling",
+              "Markov Chains and Detailed Balance",
+              "The Metropolis-Hastings Algorithm"
+            ]
+          },
+          {
+            "section": "6.2",
+            "title": "Simulating the Ising Model",
+            "subsections": [
+              "The Metropolis Algorithm for the Ising Model",
+              "Critical Slowing Down near the Critical Point",
+              "The Wolff Algorithm for the Ising Model",
+              "Measuring Thermodynamic Quantities in the Metropolis and Wolff Algorithms",
+              "Finite-Size Scaling and Critical Behavior of the 3D Ising Model"
+            ]
+          }
+        ]
+      },
+      "chapter_7": {
+        "title": "Chapter 7: Fluctuations",
+        "sections": [
+          {
+            "section": "7.1",
+            "title": "The Ginzburg-Landau Functional",
+            "subsections": [
+              "From the Landau Free Energy to the Ginzburg-Landau Functional",
+              "The Field-Theoretic Description of Fluctuations",
+              "The Gaussian Approximation to Fluctuations"
+            ]
+          },
+          {
+            "section": "7.2",
+            "title": "The Mermin-Wagner Theorem and the Lower Critical Dimension",
+            "subsections": [
+              "The Mermin-Wagner Theorem",
+              "The Lower Critical Dimension"
+            ]
+          },
+          {
+            "section": "7.3",
+            "title": "Ginzburg Criterion and the Upper Critical Dimension",
+            "subsections": [
+              "The Ginzburg Criterion",
+              "The Upper Critical Dimension"
+            ]
+          }
+        ]
+      },
+      "chapter_8": {
+        "title": "Chapter 8: Scaling Hypothesis and Universality",
+        "sections": [
+          {
+            "section": "8.1",
+            "title": "The Homogeneous Function Scaling Hypothesis",
+            "subsections": [
+              "The Scaling Form of the Free Energy",
+              "The Scaling Form of the Equation of State",
+              "Verifying Exponent Relations with Scaling"
+            ]
+          },
+          {
+            "section": "8.2",
+            "title": "Universality",
+            "subsections": [
+              "The Concept of Universality Classes",
+              "Dependence on Dimensionality and Symmetry",
+              "Independence from Microscopic Details"
+            ]
+          }
+        ]
+      },
+      "chapter_9": {
+        "title": "Chapter 9: The Renormalization Group",
+        "sections": [
+          {
+            "section": "9.1",
+            "title": "The Kadanoff Block-Spin Transformation",
+            "subsections": [
+              "Coarse-Graining and Rescaling",
+              "The Renormalization of Coupling Constants",
+              "The Renormalization Group Flow",
+              "Fixed Points of the RG Transformation"
+            ]
+          },
+          {
+            "section": "9.2",
+            "title": "Real-Space Renormalization Group (RSRG)",
+            "subsections": [
+              "RSRG for the 1D Ising Model (Decimation)",
+              "RSRG for the 2D Triangular Lattice (Majority Rule)",
+              "The Migdal-Kadanoff Approximation"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "total_chapters": 9,
+    "total_parts": 2,
+    "subject_area": "Statistical Physics",
+    "key_topics": [
+      "Ising Model",
+      "Phase Transitions",
+      "Thermodynamics",
+      "Statistical Mechanics",
+      "Mean-Field Theory",
+      "Renormalization Group",
+      "Universality",
+      "Monte Carlo Simulation",
+      "Critical Phenomena"
+    ],
+    "target_audience": "Advanced undergraduate and graduate students in physics",
+    "mathematical_level": "Advanced undergraduate to graduate level"
+  }
+}
